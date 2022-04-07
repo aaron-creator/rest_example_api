@@ -1,0 +1,9 @@
+POST https://reqres.in/api/users
+
+{
+    "name": "Aaron",
+    "job": "leader"
+}
+
+
+
